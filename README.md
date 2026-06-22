@@ -14,6 +14,7 @@ Solutions are organized by topic/pattern:
 LeetCode-Practice/
 ├── arrays/
 ├── binary-search/
+├── recursion/
 ├── sliding-window/
 ├── two-pointers/
 ├── sorting/
@@ -24,8 +25,9 @@ Each solution file includes the problem name, difficulty, and a short note on th
 
 ## Current Focus
 
-- **Active:** Binary search on answer, sliding window, two-pointer patterns
+- **Active:** Recursion — base cases, recursive tree thinking, backtracking fundamentals
 - **Completed:** Arrays, basic sorting, binary search fundamentals
+- **Up next:** Binary search on answer, sliding window, two-pointer patterns
 - **Approach:** Prioritizing pattern recognition over raw problem count — fewer problems solved with full understanding rather than many solved superficially
 
 ## Sync
