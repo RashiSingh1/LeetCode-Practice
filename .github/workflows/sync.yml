@@ -15,3 +15,5 @@ jobs:
           leetcode-session: ${{ secrets.LEETCODE_SESSION }}
           verbose: true
           commit-header: "solve:"
+- cron: "0 18 * * *"
+
