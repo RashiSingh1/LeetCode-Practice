@@ -3,6 +3,7 @@ on:
   workflow_dispatch:
   schedule:
     - cron: "0 8 * * *"
+    - cron: "0 18 * * *"
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -15,5 +16,3 @@ jobs:
           leetcode-session: ${{ secrets.LEETCODE_SESSION }}
           verbose: true
           commit-header: "solve:"
-- cron: "0 18 * * *"
-
