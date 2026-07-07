@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0048-rotate-image) |
 | [2965-find-missing-and-repeated-values](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/2965-find-missing-and-repeated-values) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Binary Search
 |  |
 | ------- |
