@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0074-search-a-2d-matrix) |
 | [0118-pascals-triangle](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0119-pascals-triangle-ii) |
+| [0162-find-peak-element](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0162-find-peak-element) |
 | [0238-product-of-array-except-self](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0283-move-zeroes) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0074-search-a-2d-matrix) |
+| [0162-find-peak-element](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0825-friends-of-appropriate-ages](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0825-friends-of-appropriate-ages) |
 ## Greedy
