@@ -1,12 +1,28 @@
 class Solution {
     public boolean searchMatrix(int[][] matrix, int target) {
-         for(int[] ele : matrix){
-            for( int a : ele){
-                if(a==target){
-                    return true;
-                }
+        int n= matrix.length , m= matrix[0].length;
+        int i=0 , j=m-1;
+        while(i<n &&j>=0){
+            if(matrix[i][j]>target){
+                j--;
             }
-         }
+            else if(matrix[i][j]<target){
+                i++;
+            }
+            else{
+                return true;
+            }
+        }
+    return false;
+    }
+}
+        //  for(int[] ele : matrix){
+        //     for( int a : ele){
+        //         if(a==target){
+        //             return true;
+        //         }
+        //     }
+        //  }
         // for(int i=0;i<matrix.length;i++){
         //     for(int j= 0;j<matrix[0].length;j++){
         //         if(matrix[i][j]==target){
@@ -14,6 +30,6 @@ class Solution {
         //         }
         //     }
         // }
-        return false;
-    }
-}
+//         return false;
+//     }
+// }
