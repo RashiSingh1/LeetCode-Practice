@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0162-find-peak-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0283-move-zeroes) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0825-friends-of-appropriate-ages](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0825-friends-of-appropriate-ages) |
 | [1029-two-city-scheduling](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/1029-two-city-scheduling) |
 ## Simulation
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0240-search-a-2d-matrix-ii) |
 ## Prefix Sum
 |  |
@@ -107,4 +110,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0374-guess-number-higher-or-lower) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
