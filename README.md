@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0119-pascals-triangle-ii) |
 | [0238-product-of-array-except-self](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0240-search-a-2d-matrix-ii) |
+| [0334-increasing-triplet-subsequence](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0605-can-place-flowers) |
 | [0825-friends-of-appropriate-ages](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0825-friends-of-appropriate-ages) |
 | [1029-two-city-scheduling](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/1029-two-city-scheduling) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0605-can-place-flowers) |
 | [1029-two-city-scheduling](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/1029-two-city-scheduling) |
 ## Sorting
