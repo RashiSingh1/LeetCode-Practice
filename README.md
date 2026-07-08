@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0074-search-a-2d-matrix) |
 | [0118-pascals-triangle](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0119-pascals-triangle-ii) |
 | [0825-friends-of-appropriate-ages](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0825-friends-of-appropriate-ages) |
 | [1029-two-city-scheduling](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/1029-two-city-scheduling) |
 | [2352-equal-row-and-column-pairs](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/2352-equal-row-and-column-pairs) |
@@ -62,4 +63,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0119-pascals-triangle-ii) |
 <!---LeetCode Topics End-->
