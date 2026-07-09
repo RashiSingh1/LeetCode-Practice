@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0605-can-place-flowers) |
+| [0807-max-increase-to-keep-city-skyline](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0825-friends-of-appropriate-ages](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0825-friends-of-appropriate-ages) |
 | [1029-two-city-scheduling](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/1029-two-city-scheduling) |
 | [1207-unique-number-of-occurrences](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/1207-unique-number-of-occurrences) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0240-search-a-2d-matrix-ii) |
+| [0807-max-increase-to-keep-city-skyline](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [2352-equal-row-and-column-pairs](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/2352-equal-row-and-column-pairs) |
 | [2643-row-with-maximum-ones](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/2643-row-with-maximum-ones) |
 | [2965-find-missing-and-repeated-values](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/2965-find-missing-and-repeated-values) |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0011-container-with-most-water) |
 | [0334-increasing-triplet-subsequence](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0605-can-place-flowers) |
+| [0807-max-increase-to-keep-city-skyline](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [1029-two-city-scheduling](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/1029-two-city-scheduling) |
 ## Sorting
 |  |
