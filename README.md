@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2706-buy-two-chocolates](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/2706-buy-two-chocolates) |
 | [2965-find-missing-and-repeated-values](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/2965-find-missing-and-repeated-values) |
 | [3033-modify-the-matrix](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/3033-modify-the-matrix) |
+| [3074-apple-redistribution-into-boxes](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/3074-apple-redistribution-into-boxes) |
 ## Matrix
 |  |
 | ------- |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0807-max-increase-to-keep-city-skyline](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [1029-two-city-scheduling](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/1029-two-city-scheduling) |
 | [2706-buy-two-chocolates](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/2706-buy-two-chocolates) |
+| [3074-apple-redistribution-into-boxes](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/3074-apple-redistribution-into-boxes) |
 ## Sorting
 |  |
 | ------- |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-two-city-scheduling](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/1029-two-city-scheduling) |
 | [1331-rank-transform-of-an-array](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/1331-rank-transform-of-an-array) |
 | [2706-buy-two-chocolates](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/2706-buy-two-chocolates) |
+| [3074-apple-redistribution-into-boxes](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/3074-apple-redistribution-into-boxes) |
 ## Simulation
 |  |
 | ------- |
