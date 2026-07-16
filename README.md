@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0011-container-with-most-water) |
+| [0027-remove-element](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0027-remove-element) |
 | [0048-rotate-image](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0073-set-matrix-zeroes) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0011-container-with-most-water) |
+| [0027-remove-element](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0027-remove-element) |
 | [0283-move-zeroes](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0825-friends-of-appropriate-ages](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0825-friends-of-appropriate-ages) |
