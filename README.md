@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1732-find-the-highest-altitude](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/1732-find-the-highest-altitude) |
 | [1785-minimum-elements-to-add-to-form-a-given-sum](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/1785-minimum-elements-to-add-to-form-a-given-sum) |
+| [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/1968-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2352-equal-row-and-column-pairs](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/2352-equal-row-and-column-pairs) |
 | [2643-row-with-maximum-ones](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/2643-row-with-maximum-ones) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1785-minimum-elements-to-add-to-form-a-given-sum](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/1785-minimum-elements-to-add-to-form-a-given-sum) |
+| [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/1968-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2706-buy-two-chocolates](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/2706-buy-two-chocolates) |
 | [3074-apple-redistribution-into-boxes](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/3074-apple-redistribution-into-boxes) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/1331-rank-transform-of-an-array) |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/1968-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2706-buy-two-chocolates](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/2706-buy-two-chocolates) |
 | [3074-apple-redistribution-into-boxes](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/3074-apple-redistribution-into-boxes) |
