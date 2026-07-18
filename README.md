@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0027-remove-element) |
+| [0125-valid-palindrome](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0825-friends-of-appropriate-ages](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0825-friends-of-appropriate-ages) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0125-valid-palindrome) |
 | [0345-reverse-vowels-of-a-string](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0345-reverse-vowels-of-a-string) |
 ## Bit Manipulation
 |  |
