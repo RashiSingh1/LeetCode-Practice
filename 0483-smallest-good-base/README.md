@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/smallest-good-base">483. Smallest Good Base</a></h2><h3>Hard</h3><hr><p>Given an integer <code>n</code> represented as a string, return <em>the smallest <strong>good base</strong> of</em> <code>n</code>.</p>
+<p>Given an integer <code>n</code> represented as a string, return <em>the smallest <strong>good base</strong> of</em> <code>n</code>.</p>
 
 <p>We call <code>k &gt;= 2</code> a <strong>good base</strong> of <code>n</code>, if all digits of <code>n</code> base <code>k</code> are <code>1</code>&#39;s.</p>
 
