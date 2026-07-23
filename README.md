@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0807-max-increase-to-keep-city-skyline](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0825-friends-of-appropriate-ages](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0825-friends-of-appropriate-ages) |
 | [0832-flipping-an-image](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0832-flipping-an-image) |
+| [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1029-two-city-scheduling](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/1029-two-city-scheduling) |
 | [1207-unique-number-of-occurrences](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/1331-rank-transform-of-an-array) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0605-can-place-flowers) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0807-max-increase-to-keep-city-skyline) |
+| [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1029-two-city-scheduling](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/1029-two-city-scheduling) |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/1561-maximum-number-of-coins-you-can-get) |
