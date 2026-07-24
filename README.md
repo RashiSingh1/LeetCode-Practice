@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2652-sum-multiples](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/2652-sum-multiples) |
 | [2965-find-missing-and-repeated-values](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/2965-find-missing-and-repeated-values) |
 | [3099-harshad-number](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/3099-harshad-number) |
+| [3516-find-closest-person](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/3516-find-closest-person) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3895-count-digit-appearances](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/3895-count-digit-appearances) |
 ## Binary Search
