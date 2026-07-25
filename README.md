@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2965-find-missing-and-repeated-values](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/2965-find-missing-and-repeated-values) |
 | [3099-harshad-number](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/3099-harshad-number) |
 | [3516-find-closest-person](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/3516-find-closest-person) |
+| [3536-maximum-product-of-two-digits](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/3536-maximum-product-of-two-digits) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3895-count-digit-appearances](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/3895-count-digit-appearances) |
 ## Binary Search
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2706-buy-two-chocolates](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/2706-buy-two-chocolates) |
 | [3074-apple-redistribution-into-boxes](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/3074-apple-redistribution-into-boxes) |
+| [3536-maximum-product-of-two-digits](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/3536-maximum-product-of-two-digits) |
 ## Simulation
 |  |
 | ------- |
