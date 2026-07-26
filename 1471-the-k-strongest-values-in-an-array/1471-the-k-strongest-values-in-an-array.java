@@ -20,6 +20,7 @@ class Solution {
                 }
             }
         }
+        return ans;
         // for(int i=0;i<n-1;i++){
         //     boolean swapped = false;
         //     for(int j=0;j<n-i-1;j++){
@@ -41,6 +42,6 @@ class Solution {
         // for(int i=0;i<k;i++){
         //     ans[i] = arr[i];
         // }
-        return ans;
+        // return ans;
     }
 }
