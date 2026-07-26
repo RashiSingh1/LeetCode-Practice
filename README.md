@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3794-reverse-string-prefix](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/3794-reverse-string-prefix) |
+| [3884-first-matching-character-from-both-ends](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/3884-first-matching-character-from-both-ends) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0521-longest-uncommon-subsequence-i) |
 | [3794-reverse-string-prefix](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/3794-reverse-string-prefix) |
+| [3884-first-matching-character-from-both-ends](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/3884-first-matching-character-from-both-ends) |
 ## Bit Manipulation
 |  |
 | ------- |
