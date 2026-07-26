@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2352-equal-row-and-column-pairs](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/2352-equal-row-and-column-pairs) |
+| [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
 | [2643-row-with-maximum-ones](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/2643-row-with-maximum-ones) |
 | [2706-buy-two-chocolates](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/2706-buy-two-chocolates) |
 | [2733-neither-minimum-nor-maximum](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/2733-neither-minimum-nor-maximum) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0825-friends-of-appropriate-ages](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0825-friends-of-appropriate-ages) |
 | [0832-flipping-an-image](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0832-flipping-an-image) |
 | [1471-the-k-strongest-values-in-an-array](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/1471-the-k-strongest-values-in-an-array) |
+| [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
 ## Dynamic Programming
 |  |
 | ------- |
