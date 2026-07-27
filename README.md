@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1936-add-minimum-number-of-rungs](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/1936-add-minimum-number-of-rungs) |
 | [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/1968-array-with-elements-not-equal-to-average-of-neighbors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2200-find-all-k-distant-indices-in-an-array](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2352-equal-row-and-column-pairs](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/2352-equal-row-and-column-pairs) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0825-friends-of-appropriate-ages](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0825-friends-of-appropriate-ages) |
 | [0832-flipping-an-image](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0832-flipping-an-image) |
 | [1471-the-k-strongest-values-in-an-array](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/1471-the-k-strongest-values-in-an-array) |
+| [2200-find-all-k-distant-indices-in-an-array](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3794-reverse-string-prefix](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/3794-reverse-string-prefix) |
