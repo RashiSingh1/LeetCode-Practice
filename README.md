@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1646-get-maximum-in-generated-array](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/1646-get-maximum-in-generated-array) |
 | [1732-find-the-highest-altitude](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/1732-find-the-highest-altitude) |
 | [1785-minimum-elements-to-add-to-form-a-given-sum](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/1785-minimum-elements-to-add-to-form-a-given-sum) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1936-add-minimum-number-of-rungs](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/1936-add-minimum-number-of-rungs) |
 | [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/1968-array-with-elements-not-equal-to-average-of-neighbors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1390-four-divisors](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/1390-four-divisors) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2169-count-operations-to-obtain-zero](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/2169-count-operations-to-obtain-zero) |
 | [2469-convert-the-temperature](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/2469-convert-the-temperature) |
