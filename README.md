@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1390-four-divisors](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/1390-four-divisors) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2169-count-operations-to-obtain-zero](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/2169-count-operations-to-obtain-zero) |
