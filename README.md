@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1471-the-k-strongest-values-in-an-array](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/1471-the-k-strongest-values-in-an-array) |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1646-get-maximum-in-generated-array](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/1646-get-maximum-in-generated-array) |
 | [1732-find-the-highest-altitude](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/1732-find-the-highest-altitude) |
 | [1785-minimum-elements-to-add-to-form-a-given-sum](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/1785-minimum-elements-to-add-to-form-a-given-sum) |
 | [1936-add-minimum-number-of-rungs](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/1936-add-minimum-number-of-rungs) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0054-spiral-matrix) |
 | [0832-flipping-an-image](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0832-flipping-an-image) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/1252-cells-with-odd-values-in-a-matrix) |
+| [1646-get-maximum-in-generated-array](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/1646-get-maximum-in-generated-array) |
 | [2169-count-operations-to-obtain-zero](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/2169-count-operations-to-obtain-zero) |
 | [2352-equal-row-and-column-pairs](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/2352-equal-row-and-column-pairs) |
 ## Two Pointers
