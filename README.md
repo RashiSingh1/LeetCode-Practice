@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0048-rotate-image) |
+| [0231-power-of-two](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0326-power-of-three) |
 | [0483-smallest-good-base](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0483-smallest-good-base) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0231-power-of-two) |
 | [0832-flipping-an-image](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0832-flipping-an-image) |
 ## Interactive
 |  |
@@ -231,5 +233,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
