@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0342-power-of-four) |
 | [0483-smallest-good-base](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0483-smallest-good-base) |
 | [0991-broken-calculator](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0991-broken-calculator) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/1252-cells-with-odd-values-in-a-matrix) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0342-power-of-four) |
 | [0832-flipping-an-image](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0832-flipping-an-image) |
 ## Interactive
 |  |
@@ -235,4 +237,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
