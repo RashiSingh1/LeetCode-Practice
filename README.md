@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3033-modify-the-matrix](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/3033-modify-the-matrix) |
 | [3074-apple-redistribution-into-boxes](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/3074-apple-redistribution-into-boxes) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
+| [3731-find-missing-elements](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/3731-find-missing-elements) |
 | [3895-count-digit-appearances](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/3895-count-digit-appearances) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Matrix
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2352-equal-row-and-column-pairs](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/2352-equal-row-and-column-pairs) |
 | [2965-find-missing-and-repeated-values](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/2965-find-missing-and-repeated-values) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3731-find-missing-elements](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
 | ------- |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3074-apple-redistribution-into-boxes](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/3074-apple-redistribution-into-boxes) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3536-maximum-product-of-two-digits](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/3731-find-missing-elements) |
 ## Simulation
 |  |
 | ------- |
