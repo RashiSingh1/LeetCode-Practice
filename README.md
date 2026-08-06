@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-two-city-scheduling](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/1029-two-city-scheduling) |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1785-minimum-elements-to-add-to-form-a-given-sum](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/1785-minimum-elements-to-add-to-form-a-given-sum) |
 | [1936-add-minimum-number-of-rungs](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/1936-add-minimum-number-of-rungs) |
 | [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/1968-array-with-elements-not-equal-to-average-of-neighbors) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0125-valid-palindrome) |
 | [0345-reverse-vowels-of-a-string](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0521-longest-uncommon-subsequence-i) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3794-reverse-string-prefix](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/3794-reverse-string-prefix) |
