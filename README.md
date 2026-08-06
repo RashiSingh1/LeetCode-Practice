@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/1732-find-the-highest-altitude) |
 | [1785-minimum-elements-to-add-to-form-a-given-sum](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/1785-minimum-elements-to-add-to-form-a-given-sum) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1936-add-minimum-number-of-rungs](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/1936-add-minimum-number-of-rungs) |
 | [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/1968-array-with-elements-not-equal-to-average-of-neighbors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1785-minimum-elements-to-add-to-form-a-given-sum](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/1785-minimum-elements-to-add-to-form-a-given-sum) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1936-add-minimum-number-of-rungs](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/1936-add-minimum-number-of-rungs) |
 | [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/1968-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1471-the-k-strongest-values-in-an-array](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/1471-the-k-strongest-values-in-an-array) |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/1968-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
@@ -191,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0832-flipping-an-image) |
 | [0948-bag-of-tokens](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0948-bag-of-tokens) |
 | [1471-the-k-strongest-values-in-an-array](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/1471-the-k-strongest-values-in-an-array) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
