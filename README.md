@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2965-find-missing-and-repeated-values](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/2965-find-missing-and-repeated-values) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3099-harshad-number](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/3099-harshad-number) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3492-maximum-containers-on-a-ship](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/3492-maximum-containers-on-a-ship) |
 | [3516-find-closest-person](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/3516-find-closest-person) |
 | [3536-maximum-product-of-two-digits](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/3536-maximum-product-of-two-digits) |
@@ -262,4 +263,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0342-power-of-four) |
 | [0486-predict-the-winner](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0486-predict-the-winner) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
