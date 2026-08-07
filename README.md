@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1331-rank-transform-of-an-array](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/1331-rank-transform-of-an-array) |
 | [1390-four-divisors](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/1390-four-divisors) |
+| [1402-reducing-dishes](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/1402-reducing-dishes) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1471-the-k-strongest-values-in-an-array](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/1471-the-k-strongest-values-in-an-array) |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1029-two-city-scheduling](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/1029-two-city-scheduling) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1402-reducing-dishes](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/1402-reducing-dishes) |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-bag-of-tokens](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0948-bag-of-tokens) |
 | [1029-two-city-scheduling](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/1029-two-city-scheduling) |
 | [1331-rank-transform-of-an-array](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/1331-rank-transform-of-an-array) |
+| [1402-reducing-dishes](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/1402-reducing-dishes) |
 | [1471-the-k-strongest-values-in-an-array](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/1471-the-k-strongest-values-in-an-array) |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/1561-maximum-number-of-coins-you-can-get) |
@@ -208,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0119-pascals-triangle-ii) |
 | [0486-predict-the-winner](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0486-predict-the-winner) |
+| [1402-reducing-dishes](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/1402-reducing-dishes) |
 ## Divide and Conquer
 |  |
 | ------- |
