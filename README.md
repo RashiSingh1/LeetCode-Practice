@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3074-apple-redistribution-into-boxes](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/3074-apple-redistribution-into-boxes) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3731-find-missing-elements](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/3731-find-missing-elements) |
+| [3819-rotate-non-negative-elements](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/3819-rotate-non-negative-elements) |
 | [3895-count-digit-appearances](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/3895-count-digit-appearances) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Matrix
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1646-get-maximum-in-generated-array](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/1646-get-maximum-in-generated-array) |
 | [2169-count-operations-to-obtain-zero](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/2169-count-operations-to-obtain-zero) |
 | [2352-equal-row-and-column-pairs](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/2352-equal-row-and-column-pairs) |
+| [3819-rotate-non-negative-elements](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/3819-rotate-non-negative-elements) |
 ## Two Pointers
 |  |
 | ------- |
