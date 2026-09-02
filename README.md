@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2169-count-operations-to-obtain-zero](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/2169-count-operations-to-obtain-zero) |
 | [2235-add-two-integers](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/2235-add-two-integers) |
+| [2413-smallest-even-multiple](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/2469-convert-the-temperature) |
 | [2652-sum-multiples](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/2652-sum-multiples) |
 | [2965-find-missing-and-repeated-values](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/2965-find-missing-and-repeated-values) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2413-smallest-even-multiple](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/2413-smallest-even-multiple) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Counting
 |  |
