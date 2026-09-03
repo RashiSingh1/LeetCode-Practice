@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3731-find-missing-elements](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/3731-find-missing-elements) |
 | [3819-rotate-non-negative-elements](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/3819-rotate-non-negative-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3895-count-digit-appearances](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/3895-count-digit-appearances) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Matrix
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3658-gcd-of-odd-and-even-sums](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3895-count-digit-appearances](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/3895-count-digit-appearances) |
 ## Binary Search
 |  |
