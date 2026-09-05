@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0048-rotate-image) |
 | [0231-power-of-two](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0263-ugly-number) |
+| [0292-nim-game](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0342-power-of-four) |
 | [0483-smallest-good-base](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0483-smallest-good-base) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0292-nim-game) |
 | [0486-predict-the-winner](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0877-stone-game) |
 | [1510-stone-game-iv](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/1510-stone-game-iv) |
@@ -306,11 +308,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0877-stone-game) |
 | [1510-stone-game-iv](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/1510-stone-game-iv) |
 ## Nim Game
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0292-nim-game) |
 | [1510-stone-game-iv](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/1510-stone-game-iv) |
 ## Sprague–Grundy Theorem
 |  |
@@ -321,4 +325,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0877-stone-game](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0877-stone-game) |
 | [1510-stone-game-iv](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/1510-stone-game-iv) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
