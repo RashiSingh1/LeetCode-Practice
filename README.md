@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0119-pascals-triangle-ii) |
 | [0486-predict-the-winner](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0877-stone-game) |
+| [0940-distinct-subsequences-ii](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0940-distinct-subsequences-ii) |
 | [1402-reducing-dishes](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/1402-reducing-dishes) |
 | [1510-stone-game-iv](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/1510-stone-game-iv) |
 ## Divide and Conquer
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0125-valid-palindrome) |
 | [0345-reverse-vowels-of-a-string](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0521-longest-uncommon-subsequence-i) |
+| [0940-distinct-subsequences-ii](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0940-distinct-subsequences-ii) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
