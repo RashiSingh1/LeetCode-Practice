@@ -4,8 +4,11 @@ class Solution {
             return 0;
         }
         int ans =0;
-        for(int i=1000;i<=n;i++){
-            ans++;
+        // for(int i=1000;i<=n;i++){
+         for (int i = 1; i <= n; i++){
+            if(i>=1000){
+                ans++;
+            }
         }
         return ans;
     }
