@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0342-power-of-four) |
 | [0483-smallest-good-base](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0483-smallest-good-base) |
 | [0486-predict-the-winner](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0486-predict-the-winner) |
+| [0509-fibonacci-number](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0877-stone-game) |
 | [0991-broken-calculator](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0991-broken-calculator) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/1252-cells-with-odd-values-in-a-matrix) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0119-pascals-triangle-ii) |
 | [0486-predict-the-winner](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0486-predict-the-winner) |
+| [0509-fibonacci-number](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0940-distinct-subsequences-ii) |
 | [1402-reducing-dishes](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/1402-reducing-dishes) |
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0342-power-of-four) |
 | [0486-predict-the-winner](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0486-predict-the-winner) |
+| [0509-fibonacci-number](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0509-fibonacci-number) |
 | [3483-unique-3-digit-even-numbers](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/3483-unique-3-digit-even-numbers) |
 ## Enumeration
 |  |
@@ -366,4 +369,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
