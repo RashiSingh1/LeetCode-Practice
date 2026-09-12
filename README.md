@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3033-modify-the-matrix](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/3033-modify-the-matrix) |
 | [3074-apple-redistribution-into-boxes](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/3074-apple-redistribution-into-boxes) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0374-guess-number-higher-or-lower) |
 | [0483-smallest-good-base](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0483-smallest-good-base) |
 | [0825-friends-of-appropriate-ages](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0825-friends-of-appropriate-ages) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Greedy
 |  |
 | ------- |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3074-apple-redistribution-into-boxes](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/3074-apple-redistribution-into-boxes) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3536-maximum-product-of-two-digits](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/3731-find-missing-elements) |
 ## Simulation
@@ -245,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0940-distinct-subsequences-ii) |
 | [1402-reducing-dishes](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/1402-reducing-dishes) |
 | [1510-stone-game-iv](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/1510-stone-game-iv) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Divide and Conquer
 |  |
 | ------- |
