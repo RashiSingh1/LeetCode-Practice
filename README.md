@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/1732-find-the-highest-altitude) |
 | [1785-minimum-elements-to-add-to-form-a-given-sum](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/1785-minimum-elements-to-add-to-form-a-given-sum) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1936-add-minimum-number-of-rungs](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/1936-add-minimum-number-of-rungs) |
 | [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/1968-array-with-elements-not-equal-to-average-of-neighbors) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2169-count-operations-to-obtain-zero](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/2169-count-operations-to-obtain-zero) |
 | [2235-add-two-integers](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/2235-add-two-integers) |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0342-power-of-four) |
 | [0832-flipping-an-image](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0832-flipping-an-image) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Interactive
 |  |
@@ -334,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/3483-unique-3-digit-even-numbers) |
 ## Minimax
@@ -389,4 +393,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0836-rectangle-overlap) |
+## Backtracking
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Combinatorics
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/1863-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
