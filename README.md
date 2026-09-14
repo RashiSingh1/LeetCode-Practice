@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0483-smallest-good-base](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0483-smallest-good-base) |
 | [0486-predict-the-winner](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0509-fibonacci-number) |
+| [0836-rectangle-overlap](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0877-stone-game) |
 | [0991-broken-calculator](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0991-broken-calculator) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/1252-cells-with-odd-values-in-a-matrix) |
@@ -381,4 +382,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0509-fibonacci-number) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
