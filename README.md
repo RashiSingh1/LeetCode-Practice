@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/1968-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2706-buy-two-chocolates](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/2706-buy-two-chocolates) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2396-strictly-palindromic-number](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/2396-strictly-palindromic-number) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3794-reverse-string-prefix](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/3794-reverse-string-prefix) |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0940-distinct-subsequences-ii) |
 | [1402-reducing-dishes](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/1402-reducing-dishes) |
 | [1510-stone-game-iv](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/1510-stone-game-iv) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Divide and Conquer
 |  |
@@ -281,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0940-distinct-subsequences-ii) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3794-reverse-string-prefix](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/3794-reverse-string-prefix) |
