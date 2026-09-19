@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0991-broken-calculator](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0991-broken-calculator) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1390-four-divisors](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/1390-four-divisors) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1510-stone-game-iv](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/1510-stone-game-iv) |
 | [1512-number-of-good-pairs](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/1512-number-of-good-pairs) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/1561-maximum-number-of-coins-you-can-get) |
@@ -417,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Backtracking
 |  |
 | ------- |
