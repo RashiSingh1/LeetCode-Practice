@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1646-get-maximum-in-generated-array](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/1646-get-maximum-in-generated-array) |
 | [2169-count-operations-to-obtain-zero](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/2169-count-operations-to-obtain-zero) |
 | [2352-equal-row-and-column-pairs](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/2352-equal-row-and-column-pairs) |
+| [3498-reverse-degree-of-a-string](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/3498-reverse-degree-of-a-string) |
 | [3819-rotate-non-negative-elements](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/3819-rotate-non-negative-elements) |
 ## Two Pointers
 |  |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3498-reverse-degree-of-a-string](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/3498-reverse-degree-of-a-string) |
 | [3794-reverse-string-prefix](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/3794-reverse-string-prefix) |
 | [3884-first-matching-character-from-both-ends](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/3884-first-matching-character-from-both-ends) |
 ## Bit Manipulation
