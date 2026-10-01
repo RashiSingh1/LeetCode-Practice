@@ -305,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0020-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0125-valid-palindrome) |
 | [0345-reverse-vowels-of-a-string](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0345-reverse-vowels-of-a-string) |
@@ -450,4 +451,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3898-find-the-degree-of-each-vertex](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/3898-find-the-degree-of-each-vertex) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
