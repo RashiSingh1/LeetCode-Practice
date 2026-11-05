@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/1207-unique-number-of-occurrences) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1331-rank-transform-of-an-array](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/1331-rank-transform-of-an-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1390-four-divisors](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/1390-four-divisors) |
 | [1402-reducing-dishes](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/1402-reducing-dishes) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0374-guess-number-higher-or-lower) |
 | [0483-smallest-good-base](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0483-smallest-good-base) |
 | [0825-friends-of-appropriate-ages](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0825-friends-of-appropriate-ages) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-bag-of-tokens](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0948-bag-of-tokens) |
 | [1029-two-city-scheduling](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/1029-two-city-scheduling) |
 | [1331-rank-transform-of-an-array](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/1331-rank-transform-of-an-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1402-reducing-dishes](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/1402-reducing-dishes) |
 | [1471-the-k-strongest-values-in-an-array](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/1471-the-k-strongest-values-in-an-array) |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -273,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0825-friends-of-appropriate-ages](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0825-friends-of-appropriate-ages) |
 | [0832-flipping-an-image](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0832-flipping-an-image) |
 | [0948-bag-of-tokens](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/0948-bag-of-tokens) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1471-the-k-strongest-values-in-an-array](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/1471-the-k-strongest-values-in-an-array) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/2200-find-all-k-distant-indices-in-an-array) |
