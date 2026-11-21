@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3903-smallest-stable-index-i](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/3904-smallest-stable-index-ii) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
+| [4044-count-good-cyclic-rotations](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/4044-count-good-cyclic-rotations) |
 ## Matrix
 |  |
 | ------- |
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/1732-find-the-highest-altitude) |
 | [3903-smallest-stable-index-i](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/3904-smallest-stable-index-ii) |
+| [4044-count-good-cyclic-rotations](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/4044-count-good-cyclic-rotations) |
 ## String
 |  |
 | ------- |
@@ -463,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [4044-count-good-cyclic-rotations](https://github.com/RashiSingh1/LeetCode-Practice/tree/master/4044-count-good-cyclic-rotations) |
 ## Graph Theory
 |  |
 | ------- |
